@@ -1,4 +1,4 @@
-# Spectrum Analyzer Sketch
+# Spectrum Analyzer Sketch ESP32 Hub-75
 Blinky Lights to music.
 
 ![Pretty Lights](spectrum.png)
